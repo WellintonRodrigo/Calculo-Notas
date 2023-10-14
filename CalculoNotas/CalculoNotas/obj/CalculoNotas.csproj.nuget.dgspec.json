@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj": {}
+    "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\Calculo-Notas\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj": {
+    "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\Calculo-Notas\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj",
+        "projectUniqueName": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\Calculo-Notas\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj",
         "projectName": "CalculoNotas",
-        "projectPath": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj",
+        "projectPath": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\Calculo-Notas\\CalculoNotas\\CalculoNotas\\CalculoNotas.csproj",
         "packagesPath": "C:\\Users\\welli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\CalculoNotas\\CalculoNotas\\obj\\",
+        "outputPath": "C:\\Users\\welli\\OneDrive\\Documentos\\Projetos\\Calculo-Notas\\CalculoNotas\\CalculoNotas\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

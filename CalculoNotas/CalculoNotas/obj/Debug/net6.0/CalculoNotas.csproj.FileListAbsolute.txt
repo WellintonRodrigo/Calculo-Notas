@@ -1,0 +1,14 @@
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.AssemblyInfoInputs.cache
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.AssemblyInfo.cs
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.csproj.CoreCompileInputs.cache
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\bin\Debug\net6.0\CalculoNotas.exe
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\bin\Debug\net6.0\CalculoNotas.deps.json
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\bin\Debug\net6.0\CalculoNotas.runtimeconfig.json
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\bin\Debug\net6.0\CalculoNotas.dll
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\bin\Debug\net6.0\CalculoNotas.pdb
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.dll
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\refint\CalculoNotas.dll
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.pdb
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\CalculoNotas.genruntimeconfig.cache
+C:\Users\welli\OneDrive\Documentos\Projetos\Calculo-Notas\CalculoNotas\CalculoNotas\obj\Debug\net6.0\ref\CalculoNotas.dll
